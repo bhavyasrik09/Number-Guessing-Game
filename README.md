@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-
-Tic-Tac-Toe game using HTML CSS and JS
+#Number-Guessing-Game
+Number-Guessing-Game using HTML CSS and JS
