@@ -23,6 +23,7 @@ function checkGuess() {
   }
 }
 
+
 function endGame() {
   guessInput.disabled = true;
   guessButton.disabled = true;
