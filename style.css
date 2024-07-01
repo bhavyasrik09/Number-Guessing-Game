@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f1c2f6;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff8ba8;
+    color: rgb(129, 239, 245);
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #9aa1ff;
+  }
+  
+  #message {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
